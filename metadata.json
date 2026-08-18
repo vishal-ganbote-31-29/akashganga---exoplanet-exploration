@@ -1,0 +1,6 @@
+{
+  "name": "AKASHGANGA - Exoplanet Exploration",
+  "description": "An interactive Spider-verse themed cosmic exploration platform to discover exoplanets with 3D models, trivia, news, and spider-web interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
