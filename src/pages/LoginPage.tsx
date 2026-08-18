@@ -164,9 +164,9 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onLoginSuccess }) => {
               <SpideyFullBodyIllustration className="w-36 h-56 md:w-44 md:h-64 object-contain filter drop-shadow-[0_0_10px_rgba(255,255,255,0.4)]" />
             </div>
 
-            {/* Circular LOGO Badge matching reference */}
-            <div className="w-16 h-16 md:w-20 md:h-20 rounded-full bg-white text-[#161338] font-black text-xs md:text-sm flex items-center justify-center shadow-lg border-2 border-white/40 tracking-wider">
-              LOGO
+            {/* Circular LOGO Badge matching header */}
+            <div className="w-16 h-16 md:w-20 md:h-20 rounded-full bg-white flex items-center justify-center shadow-lg border-2 border-white/40">
+              <img src="/assets/logo.svg" alt="Akashganga logo" className="w-12 h-12 md:w-16 md:h-16 object-contain" />
             </div>
 
             {/* AKASHGANGA brand name */}
